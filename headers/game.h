@@ -3,7 +3,9 @@
 
 #include <SFML/Graphics.hpp>
 #include "ball.h"
+#include "static-ball.h"
 #include <cmath>
+
 
 class Game {
 public:

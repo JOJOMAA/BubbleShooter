@@ -4,19 +4,19 @@
 cmake_minimum_required(VERSION 3.5)
 
 file(MAKE_DIRECTORY
-  "C:/Users/Paul/CLionProjects/ITP/cmake-build-debug/_deps/sfml-src"
-  "C:/Users/Paul/CLionProjects/ITP/cmake-build-debug/_deps/sfml-build"
-  "C:/Users/Paul/CLionProjects/ITP/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix"
-  "C:/Users/Paul/CLionProjects/ITP/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/tmp"
-  "C:/Users/Paul/CLionProjects/ITP/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp"
-  "C:/Users/Paul/CLionProjects/ITP/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src"
-  "C:/Users/Paul/CLionProjects/ITP/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp"
+  "C:/Users/Johannes/Desktop/CodeOrdner/FH Semester 2/BubbleShooter/ITP/cmake-build-debug/_deps/sfml-src"
+  "C:/Users/Johannes/Desktop/CodeOrdner/FH Semester 2/BubbleShooter/ITP/cmake-build-debug/_deps/sfml-build"
+  "C:/Users/Johannes/Desktop/CodeOrdner/FH Semester 2/BubbleShooter/ITP/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix"
+  "C:/Users/Johannes/Desktop/CodeOrdner/FH Semester 2/BubbleShooter/ITP/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/tmp"
+  "C:/Users/Johannes/Desktop/CodeOrdner/FH Semester 2/BubbleShooter/ITP/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp"
+  "C:/Users/Johannes/Desktop/CodeOrdner/FH Semester 2/BubbleShooter/ITP/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src"
+  "C:/Users/Johannes/Desktop/CodeOrdner/FH Semester 2/BubbleShooter/ITP/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp"
 )
 
 set(configSubDirs )
 foreach(subDir IN LISTS configSubDirs)
-    file(MAKE_DIRECTORY "C:/Users/Paul/CLionProjects/ITP/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/${subDir}")
+    file(MAKE_DIRECTORY "C:/Users/Johannes/Desktop/CodeOrdner/FH Semester 2/BubbleShooter/ITP/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/${subDir}")
 endforeach()
 if(cfgdir)
-  file(MAKE_DIRECTORY "C:/Users/Paul/CLionProjects/ITP/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp${cfgdir}") # cfgdir has leading slash
+  file(MAKE_DIRECTORY "C:/Users/Johannes/Desktop/CodeOrdner/FH Semester 2/BubbleShooter/ITP/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp${cfgdir}") # cfgdir has leading slash
 endif()

@@ -1,12 +1,12 @@
 #include "../headers/game.h"
 
-Game::Game() : ball(25.f), window(sf::VideoMode(1080, 960), "SFML works!") {}
+Game::Game() : ball(25.f), window(sf::VideoMode(1080, 960), "BubbleShooter") {}
 
 Game::~Game() {}
 
 
 void Game::run() {
-    const float speed = 0.5f;
+    const float speed = 0.25f;
 
     while (window.isOpen())
     {
