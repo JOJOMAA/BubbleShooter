@@ -53,6 +53,14 @@ void Game::run(sf::RenderWindow& window) {
         while (window.pollEvent(event)) {
             if (event.type == sf::Event::Closed)
                 window.close();
+
+            // Überprüfen Sie, ob die Escape-Taste gedrückt wurde
+            if(event.type == sf::Event::KeyReleased){
+                if(event.key.code == sf::Keyboard::Escape){
+                    // Stoppen Sie das Spiel und kehren Sie zum Hauptmenü zurück
+                    return;
+                }
+            }
         }
 
         sf::Vector2i mousePosition = sf::Mouse::getPosition(window);
