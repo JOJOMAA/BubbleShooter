@@ -1,3 +1,0 @@
-C:/Users/Johannes/Desktop/CodeOrdner/FH Semester 2/BubbleShooter/ITP/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate.dir
-C:/Users/Johannes/Desktop/CodeOrdner/FH Semester 2/BubbleShooter/ITP/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/edit_cache.dir
-C:/Users/Johannes/Desktop/CodeOrdner/FH Semester 2/BubbleShooter/ITP/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/rebuild_cache.dir
