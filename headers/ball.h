@@ -8,10 +8,12 @@ public:
     sf::CircleShape bubble;
     sf::Vector2f velocity;
 
+    Ball();
     Ball(float radius);
     ~Ball();
 
     void move();
+    void stopMoving();
 };
 
 #endif //ITP_BALL_H
