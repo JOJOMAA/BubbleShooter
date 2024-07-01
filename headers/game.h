@@ -25,6 +25,9 @@ public:
     bool isTouching(const Ball& ball1, const Ball& ball2);
     void spawnNewBall();
     void findMatchingBalls(int row, int col, sf::Color color, std::vector<std::pair<int, int>>& toPop); // Add this line
+
+private:
+    int score;
 };
 
 #endif //ITP_GAME_H
