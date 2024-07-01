@@ -11,6 +11,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/Johannes/Desktop/CodeOrdner/FH Semester 2/ITP/main.cpp" "CMakeFiles/ITP.dir/main.cpp.obj" "gcc" "CMakeFiles/ITP.dir/main.cpp.obj.d"
   "C:/Users/Johannes/Desktop/CodeOrdner/FH Semester 2/ITP/sources/ball.cpp" "CMakeFiles/ITP.dir/sources/ball.cpp.obj" "gcc" "CMakeFiles/ITP.dir/sources/ball.cpp.obj.d"
   "C:/Users/Johannes/Desktop/CodeOrdner/FH Semester 2/ITP/sources/game.cpp" "CMakeFiles/ITP.dir/sources/game.cpp.obj" "gcc" "CMakeFiles/ITP.dir/sources/game.cpp.obj.d"
+  "C:/Users/Johannes/Desktop/CodeOrdner/FH Semester 2/ITP/sources/menu.cpp" "CMakeFiles/ITP.dir/sources/menu.cpp.obj" "gcc" "CMakeFiles/ITP.dir/sources/menu.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

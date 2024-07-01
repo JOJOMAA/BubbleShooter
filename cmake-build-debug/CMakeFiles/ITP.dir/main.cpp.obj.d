@@ -275,4 +275,9 @@ CMakeFiles/ITP.dir/main.cpp.obj: \
  C:/Users/Johannes/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/random.tcc \
  C:/Users/Johannes/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/numeric \
  C:/Users/Johannes/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_numeric.h \
- C:/Users/Johannes/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_numeric_defs.h
+ C:/Users/Johannes/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_numeric_defs.h \
+ C:\Users\Johannes\Desktop\CodeOrdner\FH\ Semester\ 2\ITP\headers/menu.h \
+ C:/Users/Johannes/Desktop/CODEOR~1/FHSEME~1/ITP/CMAKE-~1/_deps/sfml-src/include/SFML/graphics.hpp \
+ C:/Users/Johannes/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream \
+ C:/Users/Johannes/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream \
+ C:/Users/Johannes/AppData/Local/Programs/CLion\ 2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc

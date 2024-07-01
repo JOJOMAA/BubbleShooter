@@ -12,6 +12,8 @@ add_executable(ITP main.cpp
         headers/game.h
         sources/game.cpp
         headers/ball.h
-        sources/ball.cpp)
+        sources/ball.cpp
+        headers/menu.h
+        sources/menu.cpp)
 
 target_link_libraries(ITP sfml-graphics)

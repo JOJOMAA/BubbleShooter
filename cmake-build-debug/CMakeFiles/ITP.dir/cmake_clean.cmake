@@ -5,6 +5,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/ITP.dir/sources/ball.cpp.obj.d"
   "CMakeFiles/ITP.dir/sources/game.cpp.obj"
   "CMakeFiles/ITP.dir/sources/game.cpp.obj.d"
+  "CMakeFiles/ITP.dir/sources/menu.cpp.obj"
+  "CMakeFiles/ITP.dir/sources/menu.cpp.obj.d"
   "ITP.exe"
   "ITP.exe.manifest"
   "ITP.pdb"

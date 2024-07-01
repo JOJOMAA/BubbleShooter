@@ -323,6 +323,30 @@ sources/game.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ITP.dir\build.make CMakeFiles/ITP.dir/sources/game.cpp.s
 .PHONY : sources/game.cpp.s
 
+sources/menu.obj: sources/menu.cpp.obj
+.PHONY : sources/menu.obj
+
+# target to build an object file
+sources/menu.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ITP.dir\build.make CMakeFiles/ITP.dir/sources/menu.cpp.obj
+.PHONY : sources/menu.cpp.obj
+
+sources/menu.i: sources/menu.cpp.i
+.PHONY : sources/menu.i
+
+# target to preprocess a source file
+sources/menu.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ITP.dir\build.make CMakeFiles/ITP.dir/sources/menu.cpp.i
+.PHONY : sources/menu.cpp.i
+
+sources/menu.s: sources/menu.cpp.s
+.PHONY : sources/menu.s
+
+# target to generate assembly for a file
+sources/menu.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ITP.dir\build.make CMakeFiles/ITP.dir/sources/menu.cpp.s
+.PHONY : sources/menu.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -351,6 +375,9 @@ help:
 	@echo ... sources/game.obj
 	@echo ... sources/game.i
 	@echo ... sources/game.s
+	@echo ... sources/menu.obj
+	@echo ... sources/menu.i
+	@echo ... sources/menu.s
 .PHONY : help
 
 

@@ -1173,6 +1173,9 @@
 		<Unit filename="C:/Users/Johannes/Desktop/CodeOrdner/FH Semester 2/ITP/headers/game.h">
 			<Option target="ITP"/>
 		</Unit>
+		<Unit filename="C:/Users/Johannes/Desktop/CodeOrdner/FH Semester 2/ITP/headers/menu.h">
+			<Option target="ITP"/>
+		</Unit>
 		<Unit filename="C:/Users/Johannes/Desktop/CodeOrdner/FH Semester 2/ITP/main.cpp">
 			<Option target="ITP"/>
 		</Unit>
@@ -1180,6 +1183,9 @@
 			<Option target="ITP"/>
 		</Unit>
 		<Unit filename="C:/Users/Johannes/Desktop/CodeOrdner/FH Semester 2/ITP/sources/game.cpp">
+			<Option target="ITP"/>
+		</Unit>
+		<Unit filename="C:/Users/Johannes/Desktop/CodeOrdner/FH Semester 2/ITP/sources/menu.cpp">
 			<Option target="ITP"/>
 		</Unit>
 		<Unit filename="C:/Users/Johannes/Desktop/CodeOrdner/FH Semester 2/ITP/CMakeLists.txt">
